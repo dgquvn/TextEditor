@@ -1,0 +1,9 @@
+/home/gd0/Documents/workspace_dev/TextEditor/build/CMakeFiles/edit_cache.dir
+/home/gd0/Documents/workspace_dev/TextEditor/build/CMakeFiles/rebuild_cache.dir
+/home/gd0/Documents/workspace_dev/TextEditor/build/CMakeFiles/doc.dir
+/home/gd0/Documents/workspace_dev/TextEditor/build/src/CMakeFiles/edit_cache.dir
+/home/gd0/Documents/workspace_dev/TextEditor/build/src/CMakeFiles/rebuild_cache.dir
+/home/gd0/Documents/workspace_dev/TextEditor/build/src/CMakeFiles/text_editor.dir
+/home/gd0/Documents/workspace_dev/TextEditor/build/src/TextEditor_classes/CMakeFiles/edit_cache.dir
+/home/gd0/Documents/workspace_dev/TextEditor/build/src/TextEditor_classes/CMakeFiles/rebuild_cache.dir
+/home/gd0/Documents/workspace_dev/TextEditor/build/src/TextEditor_classes/CMakeFiles/TextEditor_classes.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/text_editor.dir/text_main.cpp.o  -o text_editor -lboost_program_options TextEditor_classes/libTextEditor_classes.a 
