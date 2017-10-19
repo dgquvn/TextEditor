@@ -1,2 +1,0 @@
-/usr/bin/ar qc libTextEditor_classes.a  CMakeFiles/TextEditor_classes.dir/Controller.cpp.o CMakeFiles/TextEditor_classes.dir/Editor.cpp.o CMakeFiles/TextEditor_classes.dir/TextContent.cpp.o
-/usr/bin/ranlib libTextEditor_classes.a
